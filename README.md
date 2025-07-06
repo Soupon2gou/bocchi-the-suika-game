@@ -9,9 +9,13 @@
 2. 解凍すると以下のようなファイル構成になります：
 
 BocchiSuikaGame/
+
 ├─ BocchiSuikaGame.exe ←★ここをダブルクリックで即プレイ！
+
 ├─ ...
+
 └─ README.md
+
 
 3. Windows 10/11 以降で `BocchiSuikaGame.exe` を **クリックするだけで実行** できます  
 *インストール不要・管理者権限不要*
