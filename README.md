@@ -6,13 +6,14 @@
 
 ![rapture_20250706150652](https://github.com/user-attachments/assets/ffc0b7f7-b7cf-4dee-a2df-40cd5074d6bb)
 
-3. 解凍すると以下のようなファイル構成になります：
+2. 解凍すると以下のようなファイル構成になります：
+
 BocchiSuikaGame/
 ├─ BocchiSuikaGame.exe ←★ここをダブルクリックで即プレイ！
 ├─ ...
 └─ README.md
 
-4. Windows 10/11 以降で `BocchiSuikaGame.exe` を **クリックするだけで実行** できます  
+3. Windows 10/11 以降で `BocchiSuikaGame.exe` を **クリックするだけで実行** できます  
 *インストール不要・管理者権限不要*
 
 > **注意**：初回起動時に「Windows によって PC が保護されました」と表示された場合は、  
